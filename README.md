@@ -7,4 +7,4 @@ Editor: Vim
 Shell: zsh + Oh-My-Zsh
 
 __Projects__
-- dogengoth | _Oh-My-Zsh theme_
+- lunachar | _Oh-My-Zsh theme_
