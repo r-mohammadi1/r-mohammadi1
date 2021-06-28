@@ -4,6 +4,8 @@ DE: KDE Plasma 5
 
 Editor: Vim
 
+Terminal: Hyper
+
 Shell: zsh + Oh-My-Zsh
 
 __Projects__
