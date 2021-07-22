@@ -10,3 +10,4 @@ Shell: zsh + Oh-My-Zsh
 
 __Projects__
 - lunachar | _zsh theme_
+- stellachar | _zsh theme_
