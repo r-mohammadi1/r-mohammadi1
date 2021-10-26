@@ -10,5 +10,7 @@ Shell: zsh + Oh-My-Zsh
 
 __Projects__
 - SecondSkin | _command line pronoun tester_
+
+__Little Things__
 - lunachar | _zsh theme_
 - stellachar | _zsh theme_
