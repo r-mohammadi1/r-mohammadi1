@@ -4,7 +4,7 @@ DE: KDE Plasma 5
 
 Editor: Vim
 
-Terminal: Hyper
+Terminal: Konsole
 
 Shell: zsh + Oh-My-Zsh
 
