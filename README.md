@@ -16,4 +16,4 @@ __Projects__
 __Little Things__
 - lunachar | _zsh theme_
 - stellachar | _zsh theme_
-- raha's ulauncher bash shortcuts | _ulauncher bash shortcuts_
+- arman's ulauncher bash shortcuts | _ulauncher bash shortcuts_
