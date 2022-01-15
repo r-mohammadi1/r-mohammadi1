@@ -11,6 +11,7 @@ Shell: zsh + Oh-My-Zsh
 __Projects__
 - SecondSkin | _command line pronoun tester_ **WIP**
 - Purdue College of Science GE Class Picker | _fork of favorite-picker for choosing general education classes_ **WIP**
+- asciitrek | _fork of asciiquarium, but space & scifi themed_ **WIP**
 
 __Little Things__
 - lunachar | _zsh theme_
