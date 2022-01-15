@@ -14,6 +14,5 @@ __Projects__
 - asciitrek | _fork of asciiquarium, but space & scifi themed_ **WIP**
 
 __Little Things__
-- lunachar | _zsh theme_
-- stellachar | _zsh theme_
+- arman's zsh themes | _custom zsh themes_
 - arman's ulauncher bash shortcuts | _ulauncher bash shortcuts_
