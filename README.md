@@ -1,4 +1,4 @@
-OS: Debian GNU/Linux
+OS: Fedora Linux 37
 
 DE: KDE Plasma 5
 
