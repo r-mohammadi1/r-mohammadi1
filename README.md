@@ -1,12 +1,4 @@
-OS: Fedora Linux 37
-
-DE: KDE Plasma 5
-
-Editor: Vim
-
-Terminal: Konsole
-
-Shell: zsh + Oh-My-Zsh
+[Visit my Website](https://armans-zone.vercel.app/)
 
 __Projects__
 - SecondSkin | _command line pronoun tester_ **WIP**
